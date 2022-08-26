@@ -1,19 +1,20 @@
 ### Hi there 👋
 
-<!--
-**abdurrahmankucuk90/abdurrahmankucuk90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- **abdurrahmankucuk90/abdurrahmankucuk90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+## <a href="https://youtu.be/frszEJb0aOo?t=4" ><span style="color:#000099"> Hello there</span></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25"></a> My name is Abdurrahman <img src="https://komarev.com/ghpvc/?username=abdurrahman" alt="visitor counter" align="right" valign="center" height="28.5"/>
 
 - 🔭 I’m currently working on Finishing my Full Stack Course
 - 🌱 I’m currently learning Back-End Django
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about React
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ You can reach me via : <a href="[https://www.linkedin.com/in/esadakman/](https://www.linkedin.com/in/abdurrahman-kucuk-4722081a3/)" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin" height="20"/></a>
+- 📫 How mail me: abdurrahmankucuk90@gmail.com
+<!-- - 😄 Pronouns: ... -->
+<!-- - ⚡ Fun fact: ... -->
+
 
 ## <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools&nbsp;&nbsp;🚀</b>
 
