@@ -6,7 +6,7 @@
 ## <a href="https://youtu.be/frszEJb0aOo?t=4" ><span style="color:#000099"> Hello there</span></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25"></a> My name is Abdurrahman <img src="https://komarev.com/ghpvc/?username=abdurrahman" alt="visitor counter" align="right" valign="center" height="28.5"/>
 
 - 🔭 I’m currently working on Finishing my Full Stack Course
-- 🌱 I’m currently learning Back-End Django
+- 🌱 I’m currently learning Back-End Django, Material Ui
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about React
